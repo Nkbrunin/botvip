@@ -50,7 +50,7 @@ let tebaktebakan = db.game.tebakan = []
 let vote = db.others.vote = []
 
 // SISTEMA PREMIUM
-let prem2 = [`559491423691@s.whatsapp.net`, `coloque o numero @s.whatsapp.net`, `nao tire o @s.whatsapp.net`, `adicione quantos vips vc quiser@s.whatsapp.net`]
+let prem2 = ['553187519970@s.whatsapp.net`, `coloque o numero @s.whatsapp.net`, `nao tire o @s.whatsapp.net`, `adicione quantos vips vc quiser@s.whatsapp.net`]
 // O NÚMERO DA PESSOA DEVE FICAR TODO JUNTO ANTES DO "@s.whatsapp.net"
 
 var Puxada = true
